@@ -1,5 +1,5 @@
 # hello-world
 Bonjour monde 
-Je suis heureux que
-Tu me donne l'occasion de vivre car 
-il est belle la vie
+NOUS suis heureux que
+VOUS me donne l'occasion de vivre car 
+ILS est belle la vie
